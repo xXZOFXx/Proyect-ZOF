@@ -1,0 +1,9 @@
+.distro { color: 9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK;
+font-family:Arial;
+font-size:15px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
+.titulo{
+  text-align: center;
+}
